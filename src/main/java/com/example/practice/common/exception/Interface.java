@@ -1,4 +1,4 @@
-package com.example.practice.common;
+package com.example.practice.common.exception;
 
 public interface Interface {
     Integer getCode();
